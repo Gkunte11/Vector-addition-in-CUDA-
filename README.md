@@ -1,1 +1,1 @@
-# Vector-addition-in-CUDA-
+# Vector-addition-in-CUDA
